@@ -29,7 +29,7 @@ module.exports = function toJSON(schema) {
       // format
       _.each(paths, (path, index) => {
         const date = _.get(ret, path);
-          _.set(ret, path, date?moment(date).format('YYYY-MM-DD HH:mm:ss')):``;
+        _.set(ret, path, date?moment(date).format('YYYY-MM-DD HH:mm:ss')):``;
       });
       
 
