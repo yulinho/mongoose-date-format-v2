@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-date-format",
+  "name": "mongoose-date-format-v2",
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chapin666/mongoose-date-format"
+    "url": "git+https://github.com/yulinho/mongoose-date-format-v2"
   },
   "keywords": [ "mongoose-date-format", "mongoose-plugin" ],
   "author": "",

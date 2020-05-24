@@ -1,8 +1,8 @@
-# mongoose-date-format
+# mongoose-date-format-v2
 
 ### INSTALL
 ```
-npm install mongoose-date-format --save
+npm install mongoose-date-format-v2 --save
 ```
 
 ### USE
@@ -28,7 +28,7 @@ module.exports = app => {
 ```
 'use strict';
 
-const mongooseDateFormat = require('mongoose-date-format');
+const mongooseDateFormat = require('mongoose-date-format-v2');
 
 module.exports = app => {
   const mongoose = app.mongoose;
