@@ -1,5 +1,10 @@
 # mongoose-date-format-v2
 
+### WHAT'S THED DIFFERENT WITH mongoose-date-format
+```
+return `` when the date value provided is undefined 
+```
+
 ### INSTALL
 ```
 npm install mongoose-date-format-v2 --save
